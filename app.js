@@ -120,7 +120,7 @@ console.log(ProGrad1.concat(" ", ProGrad2));
 // - Yo, the navigator goes first definitely.
 // - What?! You both have the same name?
 function lexicographic() {
-    var elements = ['Nikhil', 'ArchanaReddy'];
+    var elements = ['chaitra', 'charan'];
     a = elements.sort((a, b) => a.localeCompare(b));
 
     console.log(a);
